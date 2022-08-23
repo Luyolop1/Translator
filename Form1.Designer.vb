@@ -53,7 +53,7 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI Semibold", 15.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(160, 314)
+        Me.Label1.Location = New System.Drawing.Point(161, 314)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(80, 30)
         Me.Label1.TabIndex = 2
@@ -62,15 +62,16 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Segoe UI Semibold", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point)
-        Me.Label2.Location = New System.Drawing.Point(171, 413)
+        Me.Label2.Font = New System.Drawing.Font("Segoe UI Semibold", 15.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point)
+        Me.Label2.Location = New System.Drawing.Point(161, 416)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(54, 21)
+        Me.Label2.Size = New System.Drawing.Size(71, 30)
         Me.Label2.TabIndex = 3
         Me.Label2.Text = "Xhosa"
         '
         'PictureBox1
         '
+        Me.PictureBox1.BackColor = System.Drawing.SystemColors.Menu
         Me.PictureBox1.Location = New System.Drawing.Point(29, 68)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(327, 213)
@@ -92,6 +93,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackgroundImage = Global.WinFormsApp1.My.Resources.Resources._150101160715_south_african_flag
         Me.ClientSize = New System.Drawing.Size(384, 503)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.PictureBox1)
