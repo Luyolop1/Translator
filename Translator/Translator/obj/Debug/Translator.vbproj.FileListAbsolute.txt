@@ -1,0 +1,13 @@
+C:\Users\Admin 2.0\source\repos\Translator\Translator\bin\Debug\Translator.exe.config
+C:\Users\Admin 2.0\source\repos\Translator\Translator\bin\Debug\Translator.exe
+C:\Users\Admin 2.0\source\repos\Translator\Translator\bin\Debug\Translator.pdb
+C:\Users\Admin 2.0\source\repos\Translator\Translator\bin\Debug\Translator.xml
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.vbproj.AssemblyReference.cache
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.Form1.resources
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.Resources.resources
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.vbproj.GenerateResource.cache
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.vbproj.CoreCompileInputs.cache
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.exe
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.xml
+C:\Users\Admin 2.0\source\repos\Translator\Translator\obj\Debug\Translator.pdb
